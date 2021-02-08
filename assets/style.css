@@ -12,6 +12,22 @@ a {
 body {
     font-family: 'Montserrat', sans-serif;
 }
+header {
+    background: #2980b9;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 60px;
+}
+
+header p {
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 30px;
+}
 .flag-img {
     width: 50px;
     height: auto;
